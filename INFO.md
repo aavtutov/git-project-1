@@ -1,4 +1,3 @@
 git is cool!
-new
-code
-experiment with amend!
+New line
+Another line
