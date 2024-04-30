@@ -1,3 +1,3 @@
-git is cool!
-New line
+Git is cool!
+New line!
 Another line
